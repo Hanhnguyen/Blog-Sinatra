@@ -99,7 +99,7 @@ get "/" do
 
   </style>		   
 </html>
-	"
+"
 end		
   
 get "/new-post" do
@@ -201,7 +201,6 @@ get "/new-post" do
     }
 
   </style> 
-  
 </html>
 "
 end
