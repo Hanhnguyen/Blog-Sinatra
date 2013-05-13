@@ -4,7 +4,7 @@ require "sinatra"
 get "/" do
 "
 <html>
-	<body>
+  <body>
     <header id='main_header'>
       <h1>Hanh learning to code</h1>
       <div id='banner'>
